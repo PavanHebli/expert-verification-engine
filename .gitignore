@@ -20,6 +20,7 @@ env/
 
 # Internal documents
 memo.md
+OpenCode_Summary.md
 
 # Jupyter
 .ipynb_checkpoints/
